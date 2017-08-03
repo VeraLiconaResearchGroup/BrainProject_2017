@@ -1,0 +1,7 @@
+original
+median
+kmeans
+eqwidth
+mean
+maxxmax5
+top47
